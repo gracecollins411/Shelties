@@ -4,10 +4,12 @@ h1 {
   color: green;
     opacity: 1;
   border-style: dotted;
+  width: 200px;
 }
 h2 {
   font-family: cursive;
   border-style: dotted;
+  width: 100px;
   color: green;
   opacity: 1;
 }
