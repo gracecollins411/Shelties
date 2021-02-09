@@ -1,7 +1,7 @@
 
 h1 {
   font-family: monaco;
-  color: green;
+  color: coral;
     opacity: 1;
   border-style: dotted;
   width: 200px;
@@ -10,17 +10,17 @@ h2 {
   font-family: cursive;
   border-style: dotted;
   width: 100px;
-  color: green;
+  color: coral;
   opacity: 1;
 }
 li {
   font-family: Helvetica;
-    color: green;
+    color: lightpink;
     opacity: 1;
 }
 p {
   font-family: papyrus;
-  color: green;
+  color: lightcoral;
   opacity: 1;
 }
 
