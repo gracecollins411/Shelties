@@ -1,7 +1,7 @@
 
 h1 {
   font-family: monaco;
-  color: #F4C210;
+  color: #ffcc66;
     opacity: 1;
   border-style: dotted;
   width: 140px;
@@ -14,7 +14,7 @@ h2 {
   opacity: 1;
 }
 li {
-  font-family: Helvetica;
+  font-family: papyrus;
     color: #FBDC70;
     opacity: 1;
 }
