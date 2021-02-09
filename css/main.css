@@ -1,27 +1,29 @@
 
 h1 {
   font-family: monaco;
-  color: coral;
+  color: #F4C210;
     opacity: 1;
   border-style: dotted;
-  width: 200px;
+  width: 150px;
 }
 h2 {
   font-family: cursive;
   border-style: dotted;
-  width: 100px;
-  color: coral;
+  width: 50px;
+  color: #F2A47A;
   opacity: 1;
 }
 li {
   font-family: Helvetica;
-    color: lightpink;
+    color: #FBDC70;
     opacity: 1;
 }
 p {
   font-family: papyrus;
-  color: lightcoral;
+  color: #F1BF74;
   opacity: 1;
+body {
+  background-color: #FDF3CE;
 }
 
 /* Flexible images */
