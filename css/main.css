@@ -4,12 +4,12 @@ h1 {
   color: #F4C210;
     opacity: 1;
   border-style: dotted;
-  width: 150px;
+  width: 140px;
 }
 h2 {
   font-family: cursive;
   border-style: dotted;
-  width: 50px;
+  width: 80px;
   color: #F2A47A;
   opacity: 1;
 }
@@ -22,6 +22,7 @@ p {
   font-family: papyrus;
   color: #F1BF74;
   opacity: 1;
+}
 body {
   background-color: #FDF3CE;
 }
