@@ -45,5 +45,5 @@
 <img alt="Hudson" src="81DE74CC-F961-4701-ACFB-05BB7AD35F9A.jpeg">
 
 <p>While being at school I really miss my dogs because they bring so much light to my life with all of their personalities and fluff.</p>
-<p>This is a picture of all of them from the other day when it snowed.</p>
+<p>This is a picture of all of them from the other day when it snowed:</p>
 <img alt="dogs" src="IMG_9091.JPG">
