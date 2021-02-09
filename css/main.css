@@ -1,6 +1,8 @@
 
 h1 {
   font-family: monaco;
+  color: green;
+    opacity: 1;
 }
 h2 {
   font-family: cursive;
@@ -8,14 +10,18 @@ h2 {
 li {
   font-family: Helvetica
     font-size: 4em; /*16px=1em*/
-    color: red
+    color: green;
+    opacity: 1;
 }
 p {
   font-family: papyrus;
+  color: green;
+  opacity: 1;
 }
 div {
   background-color: green;
   opacity: 0.3;
+}
 /* Flexible images */
 
 img {
