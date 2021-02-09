@@ -3,7 +3,7 @@ h1 {
   font-family: monaco;
   color: green;
     opacity: 1;
-  border-style: bottom-border;
+  border-style: dotted;
 }
 h2 {
   font-family: cursive;
