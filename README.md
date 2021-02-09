@@ -24,6 +24,6 @@
   <li>She definitely has undiagnosed anxiety because she's nervous all the time</li>
   <li>When she'd not anxious she loves to play with her brother and sister</li>
   <li>She's a really weird dog, but we love her any way</li>
-<ol>
+</ol>
 <p>Here is a picture of her.</p>
 <img alt="Sierra" src="979451D5-0A7F-4CC0-B0FD-0356752A9185.jpeg">
