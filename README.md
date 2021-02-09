@@ -21,9 +21,9 @@
   <li>We got her in 2014 and she is now 6 years old.</li>
   <li>She's a blue merle sheltie which means she kind of looks like an Australian Shephard.</li>
   <li>She is named after the Pepsi drink "Sierra Mist".</li>
-  <li>She definitely has undiagnosed anxiety because she's nervous all the time</li>
-  <li>When she'd not anxious she loves to play with her brother and sister</li>
-  <li>She's a really weird dog, but we love her any way</li>
+  <li>She definitely has undiagnosed anxiety because she's nervous all the time.</li>
+  <li>When she'd not anxious she loves to play with her brother and sister.</li>
+  <li>She's a really weird dog, but we love her any way.</li>
 </ol>
 <p>Here is a picture of her.</p>
 <img alt="Sierra" src="979451D5-0A7F-4CC0-B0FD-0356752A9185.jpeg">
