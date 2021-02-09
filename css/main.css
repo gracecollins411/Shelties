@@ -5,8 +5,8 @@ h1 {
 h2 {
   font-family: cursive;
 }
-h3 {
-  font-family: monospace
+ol {
+  font-family: Helvetica
     font-size: 4em; /*16px=1em*/
     color: red
 }
