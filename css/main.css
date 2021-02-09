@@ -3,9 +3,11 @@ h1 {
   font-family: monaco;
   color: green;
     opacity: 1;
+  border-style: bottom border
 }
 h2 {
   font-family: cursive;
+  border-style: bottom border
 }
 li {
   font-family: Helvetica
