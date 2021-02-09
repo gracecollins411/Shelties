@@ -1,6 +1,6 @@
-<h1>My Dogs</h1>
+<title>My Dogs</title>
 <p>I have three dogs and they are all shelties. Their names are Izze, Sierra, and Hudson.</p>
-<h3>Izze</h3>
+<h2>Izze</h2>
 <p>Some facts about Izze:</p>
 <ol>
   <li>Izze is the first child of all three dogs.</li> 
