@@ -1,4 +1,4 @@
-<title>My Dogs</title>
+<h1>My Dogs</h1>
 <p>I have three dogs and they are all shelties. Their names are Izze, Sierra, and Hudson.</p>
 <h2>Izze</h2>
 <p>Some facts about Izze:</p>
