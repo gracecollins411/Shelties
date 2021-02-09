@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <!-- mobile friendly -->
+  <meta name="viewport" content="width=device-width, initial scale=1">
+  <link rel="stylesheet" href="css/main.css">
+  <title>Hello World</title>
+</head>
+<body>
+  
 <h1>My Dogs</h1>
 <p>I have three dogs and they are all shelties. Their names are Izze, Sierra, and Hudson.</p>
 <h2>Izze</h2>
@@ -47,3 +58,6 @@
 <p>While being at school I really miss my dogs because they bring so much light to my life with all of their personalities and fluff.</p>
 <p>This is a picture of all of them from the other day when it snowed:</p>
 <img alt="dogs" src="IMG_9091.JPG">
+
+</body>
+</html>
