@@ -3,16 +3,16 @@ h1 {
   font-family: monaco;
   color: green;
     opacity: 1;
-  border-style: bottom border
+  border-style: bottom border;
 }
 h2 {
   font-family: cursive;
-  border-style: bottom border
+  border-style: bottom border;
   color: green;
   opacity: 1;
 }
 li {
-  font-family: Helvetica
+  font-family: Helvetica;
     font-size: 4em; /*16px=1em*/
     color: green;
     opacity: 1;
