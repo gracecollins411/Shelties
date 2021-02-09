@@ -1,17 +1,21 @@
 
 h1 {
+  display: inline-block;
+  padding: 0 0.5rem;
   font-family: monaco;
+   border-style: dotted;
+  /* max-width: 140px;*/
   color: #ffcc66;
-    opacity: 1;
-  border-style: dotted;
-  width: 140px;
+  /* opacity: 1;*/
 }
 h2 {
+  display: inline-block;
+  padding: 0 0.5rem;
   font-family: cursive;
   border-style: dotted;
-  width: 80px;
+  /* max-width: 80px;*/
   color: #F2A47A;
-  opacity: 1;
+  /* opacity: 1;*/
 }
 li {
   font-family: papyrus;
