@@ -1,5 +1,6 @@
 
 h1 {
+  font-size: 2em; /* 40px/16=2.5em */
   display: inline-block;
   padding: 0 0.5rem;
   font-family: monaco;
@@ -9,6 +10,7 @@ h1 {
   /* opacity: 1;*/
 }
 h2 {
+  font-size: 2em; /* 40px/16=2.5em */
   display: inline-block;
   padding: 0 0.5rem;
   font-family: cursive;
@@ -18,11 +20,13 @@ h2 {
   /* opacity: 1;*/
 }
 li {
+  font-size: 2em; /* 40px/16=2.5em */
   font-family: papyrus;
     color: #ffa64d;
     opacity: 1;
 }
 p {
+  font-size: 2em; /* 40px/16=2.5em */
   font-family: papyrus;
   color: #F2A47A;
   opacity: 1;
