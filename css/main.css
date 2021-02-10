@@ -10,7 +10,6 @@ h1 {
 }
 h2 {
   display: inline-block;
-  padding: 0 0.5rem;
   font-family: cursive;
   border-style: dotted;
   /* max-width: 80px;*/
